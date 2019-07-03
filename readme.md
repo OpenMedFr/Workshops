@@ -1,6 +1,6 @@
 # Medieval Vernacular Corpora and Digital Textual Analysis
 
-This repository contains some materials for the workshop held at the IMC in Leeds 2019 by Gustavo Fernández Riva and David J. Wrisley.
+This repository contains some materials for the workshop held at the IMC in Leeds 2019 by Gustavo Fernández Riva and David Joseph Wrisley.
 
 - **matieres**: Corpus of the so-called *matières* of France (fra), Rome (rom) and Bretagne (bre). They texts are lemmatised and scrambled, but can be used for bag of words models.
 
