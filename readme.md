@@ -4,6 +4,8 @@ This repository contains some materials for the workshop held at the IMC in Leed
 
 ## Contents
 
+- **Leeds_part_one**: A folder containing documents for the first part of the workshop focused on corpus creation, OCR and handwritten text recognition. 
+
 - **matieres**: Corpus of the so-called *matières* of France (fra), Rome (rom) and Bretagne (bre). They texts are lemmatised and scrambled, but can be used for bag of words models.
 
 - **OpenMedFr**: A copy of the Open Medieval French corpus.
